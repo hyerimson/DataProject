@@ -1,5 +1,5 @@
 <img src='images/howl의움직이는 성.jpg'> </img>
-<img src='images/howl의움직이는 성.jpg'>, width=200 </img>
+<img src='images/howl의움직이는 성.jpg'>, width=200 height=50 </img>
 
 
 # DataProject
